@@ -64,5 +64,6 @@ namespace Snake
             sym = ' ';
             Draw();
         }
+
     }
 }
